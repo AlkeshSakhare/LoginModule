@@ -19,7 +19,7 @@
 				<td><input type="password" name="upassword"></td>
 			</tr>
 			<tr>
-				<input type="submit" value="Login">
+				<td><input type="submit" value="Login"></td>
 			</tr>
 		</table>
 	</form>
